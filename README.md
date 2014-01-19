@@ -3,8 +3,8 @@ Only tested with Ubuntu 12.04 on Amazon EC2 t1.micro
 
 ### How to Use
 1. Set user & passwd in vpn.cfg
-1. Run ./start-vpn as root(need only once, will auto started next boot).
-1. Connect to vpn server use Win/MAC/IOS buildin vpn client.[howto](http://www.vpngate.net/en/howto_l2tp.aspx)
+1. Run ./start-vpn.sh as root(need only once, will auto started next boot).
+1. Connect to vpn server use Win/MAC/IOS buildin vpn client. [howto](http://www.vpngate.net/en/howto_l2tp.aspx)
 1. Happy surfing.
 
 ### What have been done
